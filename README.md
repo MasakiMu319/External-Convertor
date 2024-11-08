@@ -5,5 +5,8 @@ Since Surge lacks support for certain new protocols, this project offers a user-
 ## To-Do
 
 - MVP Stage
-  - [ ] Support sing-box subscription download and convert.
+  - [x] Support sing-box subscription download and convert.
+
+- Latter
   - [ ] Support more clients.
+  - [ ] Support split subscription into single node configuration.
